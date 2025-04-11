@@ -1,0 +1,20 @@
+# macOS junk
+.DS_Store
+
+# Vim/Neovim swap and undo files
+*.swp
+*.swo
+*.un~
+*.tmp
+
+# Neovim
+config/nvim/lazy-lock.json
+
+# fzf cache
+.fzf.zsh
+
+# zsh cache
+.zcompdump*
+
+# zsh shell history
+.zsh_history

@@ -1,0 +1,10 @@
+theme = light:GruvboxLight,dark:GruvboxDark
+background-opacity = 0.8
+background-blur = true
+unfocused-split-opacity = 1
+macos-titlebar-style = transparent
+window-theme = system
+auto-update = download
+cursor-style = block
+cursor-style-blink = true
+
